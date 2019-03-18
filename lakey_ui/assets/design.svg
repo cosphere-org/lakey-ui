@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="189.4274"
-     inkscape:cy="421.87446"
+     inkscape:zoom="0.7"
+     inkscape:cx="458.74086"
+     inkscape:cy="291.03967"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,9 +58,13 @@
        width="663.96375"
        height="338.90619"
        x="34.345184"
-       y="41.199505" />
+       y="41.199505"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g4161">
+       id="g4161"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="57.007442"
          x="152.9221"
@@ -92,21 +96,27 @@
        width="632.14288"
        height="110"
        x="53.214272"
-       y="111.64792" />
+       y="111.64792"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4167"
        width="632.14288"
        height="110"
        x="49.285713"
-       y="108.79077" />
+       y="108.79077"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="195.42458"
        y="78.242371"
        id="text4184"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186"
          x="195.42458"
@@ -118,7 +128,9 @@
        x="58.345451"
        y="129.77672"
        id="text4184-7"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-5"
          x="58.345451"
@@ -130,10 +142,14 @@
        width="119.45054"
        height="1.5738766"
        x="53.803314"
-       y="130.90657" />
+       y="130.90657"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g4263"
-       transform="matrix(0.58746417,0,0,0.58746417,274.09715,88.109966)">
+       transform="matrix(0.58746417,0,0,0.58746417,274.09715,88.109966)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g4258">
         <path
@@ -168,7 +184,9 @@
        x="58.194557"
        y="151.3671"
        id="text4184-2"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-9"
          x="58.194557"
@@ -180,21 +198,27 @@
        width="632.14288"
        height="110"
        x="53.588371"
-       y="248.24744" />
+       y="248.24744"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4167-2"
        width="632.14288"
        height="110"
        x="49.659813"
-       y="245.39029" />
+       y="245.39029"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="58.719551"
        y="266.37622"
        id="text4184-7-7"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-5-0"
          x="58.719551"
@@ -206,10 +230,14 @@
        width="78.736252"
        height="1.5738766"
        x="54.177406"
-       y="267.50607" />
+       y="267.50607"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g4263-3"
-       transform="matrix(0.58746417,0,0,0.58746417,274.47125,224.70949)">
+       transform="matrix(0.58746417,0,0,0.58746417,274.47125,224.70949)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g4258-6">
         <path
@@ -244,7 +272,9 @@
        x="58.568657"
        y="287.96661"
        id="text4184-2-1"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-9-8"
          x="58.568657"
@@ -260,10 +290,15 @@
        id="rect4136-7"
        width="663.96375"
        height="683.10419"
-       x="47.835487"
-       y="454.60443" />
+       x="34.978344"
+       y="410.31873"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g4553">
+       id="g4553"
+       transform="translate(-12.857143,-44.285714)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="525.06256"
          x="63.63961"
@@ -283,9 +318,9 @@
          id="text4184-7-2"
          y="531.42755"
          x="343.87674"
-         style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#767676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#767676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#767676;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#767676;fill-opacity:1"
            y="531.42755"
            x="343.87674"
            id="tspan4186-5-8"
@@ -293,7 +328,9 @@
     </g>
     <g
        id="g4263-36"
-       transform="matrix(0.58746417,0,0,0.58746417,-295.34147,387.12255)">
+       transform="matrix(0.58746417,0,0,0.58746417,-308.19861,342.83684)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g4258-1">
         <path
@@ -324,7 +361,9 @@
     </g>
     <g
        id="g4590"
-       transform="translate(-0.36595154,33.571429)">
+       transform="translate(-13.223094,-10.714285)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="657.50269"
          x="64.005562"
@@ -344,9 +383,9 @@
          id="text4184-7-2-6"
          y="663.86768"
          x="355.89771"
-         style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#767676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#767676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#767676;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#767676;fill-opacity:1"
            y="663.86768"
            x="355.89771"
            id="tspan4186-5-8-9"
@@ -354,7 +393,9 @@
     </g>
     <g
        id="g4627"
-       transform="translate(0.9197693,44)">
+       transform="translate(-11.937374,-0.28571431)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="826.0741"
          x="64.719841"
@@ -385,18 +426,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.77669525px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="115.68499"
-       y="499.94186"
+       x="102.82785"
+       y="455.65616"
        id="text4184-7-7-5"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-5-0-4"
-         x="115.68499"
-         y="499.94186"
+         x="102.82785"
+         y="455.65616"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333">iot.events</tspan></text>
     <g
        id="g4781"
-       transform="translate(5.0507627,-1.8513343e-5)">
+       transform="translate(-7.8063802,-44.285733)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          sodipodi:linespacing="125%"
          id="text4184-7-7-4"
@@ -419,7 +464,9 @@
     </g>
     <g
        id="g4786"
-       transform="translate(5.0507627,-2.6290408)">
+       transform="translate(-7.8063802,-46.914755)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          sodipodi:linespacing="125%"
          id="text4184-7-7-4-0"
@@ -443,25 +490,31 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="98.28196"
-       y="632.98639"
+       x="85.42482"
+       y="588.70068"
        id="text4184-7-7-4-0-8"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-5-0-43-7-6"
-         x="98.28196"
-         y="632.98639"
+         x="85.42482"
+         y="588.70068"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333">device_id</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.78260469;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4726-4-3"
        width="16.770102"
        height="16.490599"
-       x="68.518486"
-       y="618.92828" />
+       x="55.661343"
+       y="574.64258"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g4796"
-       transform="translate(5.0507627,-1.2463472e-5)">
+       transform="translate(-7.8063802,-44.285727)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          sodipodi:linespacing="125%"
          id="text4184-7-7-4-0-8-8"
@@ -483,8 +536,10 @@
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.78260469;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,442.34504,111.94785)"
-       id="g4850">
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,429.4879,67.662136)"
+       id="g4850"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="600.67578"
          x="76.49707"
@@ -502,8 +557,10 @@
          style="opacity:1;fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.31738397;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,442.72621,182.11368)"
-       id="g4850-9">
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,429.86907,137.82797)"
+       id="g4850-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="600.67578"
          x="76.49707"
@@ -522,7 +579,9 @@
     </g>
     <g
        id="g5167"
-       transform="translate(-4.0130768,13.813964)">
+       transform="translate(-16.87022,-30.47175)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875"
@@ -561,7 +620,9 @@
     </g>
     <g
        id="g5173"
-       transform="translate(-4,14.370177)">
+       transform="translate(-16.857143,-29.915537)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-9"
@@ -600,7 +661,9 @@
     </g>
     <g
        id="g5190"
-       transform="translate(-2.4980894,14.407104)">
+       transform="translate(-15.355232,-29.87861)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8"
@@ -639,7 +702,9 @@
     </g>
     <g
        id="g5184"
-       transform="translate(-2.9882933,14.659423)">
+       transform="translate(-15.845436,-29.626291)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8-2"
@@ -678,7 +743,9 @@
     </g>
     <g
        id="g5202"
-       transform="translate(-5.1168911,15.145385)">
+       transform="translate(-17.974034,-29.140329)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8-1"
@@ -701,7 +768,9 @@
     </g>
     <g
        id="g5179"
-       transform="translate(-2.5915004,15.127806)">
+       transform="translate(-15.448643,-29.157908)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8-1-1"
@@ -724,7 +793,9 @@
     </g>
     <g
        id="g5161"
-       transform="translate(-5.3954926,6.6685791)">
+       transform="translate(-18.252635,-37.617135)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-7"
@@ -763,7 +834,9 @@
     </g>
     <g
        id="g5196"
-       transform="translate(-3.8804899,7.2617187)">
+       transform="translate(-16.737633,-37.023996)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8-6"
@@ -802,7 +875,9 @@
     </g>
     <g
        id="g5207"
-       transform="translate(-6.4993374,8)">
+       transform="translate(-19.35648,-36.285714)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8-1-4"
@@ -825,7 +900,9 @@
     </g>
     <g
        id="g5179-2"
-       transform="translate(-311.84185,53.31063)">
+       transform="translate(-324.69899,9.0249157)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.56561273;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4875-8-1-1-9"
@@ -847,22 +924,26 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#767676;fill-opacity:1">+ add filter</tspan></text>
     </g>
     <rect
-       y="888.35455"
-       x="66.666046"
+       y="844.06885"
+       x="53.808903"
        height="24.96957"
        width="144.45984"
        id="rect4875-9-8"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.67148155;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        sodipodi:linespacing="125%"
        id="text4184-7-7-4-0-6-5-8"
-       y="906.25171"
-       x="76.106087"
+       y="861.966"
+       x="63.248943"
        style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333"
-         y="906.25171"
-         x="76.106087"
+         y="861.966"
+         x="63.248943"
          id="tspan4186-5-0-43-7-64-0-5"
          sodipodi:role="line">86%</tspan></text>
     <path
@@ -870,8 +951,8 @@
        style="opacity:1;fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.79370433;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4940-4-0"
        sodipodi:sides="3"
-       sodipodi:cx="200.26667"
-       sodipodi:cy="904.55992"
+       sodipodi:cx="187.40952"
+       sodipodi:cy="860.27422"
        sodipodi:r1="4.5354533"
        sodipodi:r2="2.2677267"
        sodipodi:arg1="1.5707963"
@@ -879,15 +960,17 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 200.26666,909.09539 -1.96391,-3.40159 -1.96391,-3.40159 3.92782,0 3.92782,0 -1.96391,3.40159 z"
-       inkscape:transform-center-y="1.133867" />
+       d="m 187.40952,864.80968 -1.96391,-3.40159 -1.96391,-3.40159 3.92782,0 3.92781,0 -1.96391,3.40159 z"
+       inkscape:transform-center-y="1.133867"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:#767676;stroke-width:0.79370433;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4940-4-0-9"
        sodipodi:sides="3"
-       sodipodi:cx="200.26667"
-       sodipodi:cy="-897.32377"
+       sodipodi:cx="187.40952"
+       sodipodi:cy="-853.03808"
        sodipodi:r1="4.5354533"
        sodipodi:r2="2.2677267"
        sodipodi:arg1="1.5707963"
@@ -895,66 +978,80 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 200.26666,-892.78834 -1.96391,-3.40159 -1.96391,-3.40159 3.92782,0 3.92782,0 -1.96391,3.40159 z"
+       d="m 187.40952,-848.50263 -1.96391,-3.40159 -1.96391,-3.40159 3.92782,0 3.92781,0 -1.96391,3.40159 z"
        inkscape:transform-center-y="-1.1338679"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4525-6-7-3"
        width="626.2746"
        height="4.0047154"
-       x="65.434128"
-       y="958.93127" />
+       x="52.576984"
+       y="914.64557"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4527-5-4-8"
        width="186.78571"
        height="30.357143"
-       x="285.17859"
-       y="945.75507" />
+       x="272.32144"
+       y="901.46936"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#767676;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="323.76382"
-       y="965.29626"
+       x="310.90668"
+       y="921.01056"
        id="text4184-7-2-6-5-5"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4186-5-8-9-2-6"
-         x="323.76382"
-         y="965.29626"
+         x="310.90668"
+         y="921.01056"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#767676;fill-opacity:1">estimated size</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5309"
-       y="1046.6479"
-       x="69.285713"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       xml:space="preserve"><tspan
+       y="1002.3622"
+       x="56.42857"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          id="tspan5317"
-         y="1046.6479"
-         x="69.285713"
+         y="1002.3622"
+         x="56.42857"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff5555;">unselect columns, add / change filters or decrease random sampling in order to</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff5555">unselect columns, add / change filters or decrease random sampling in order to</tspan><tspan
          id="tspan5323"
-         y="1065.3979"
-         x="69.285713"
+         y="1021.1122"
+         x="56.42857"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff5555;">reduce the resulting size to 1GB</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff5555">reduce the resulting size to 1GB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.9498291px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="65.006554"
-       y="1020.556"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.9498291px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="52.14941"
+       y="976.27032"
        id="text5336"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5338"
-         x="65.006554"
-         y="1020.556">1.5 GB</tspan></text>
+         x="52.14941"
+         y="976.27032">1.5 GB</tspan></text>
     <g
        id="g5179-2-1"
-       transform="translate(-60.82487,321.48104)">
+       transform="translate(-73.682013,277.19533)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g5383"
          transform="translate(-3.3052981,3.0304576)">
@@ -970,9 +1067,9 @@
            id="text4184-7-7-4-0-6-7-0-5-3-5"
            y="795.89252"
            x="386.98053"
-           style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-weight:normal;font-size:17.19085503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#cccccc;fill-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#cccccc;fill-opacity:1"
              y="795.89252"
              x="386.98053"
              id="tspan4186-5-0-43-7-64-1-6-9-9-9"

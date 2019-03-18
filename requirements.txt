@@ -4,3 +4,9 @@
 
 # -- main executable environment
 jupyter==1.0.0
+
+# -- http communication client
+requests==2.21.0
+
+# -- dataframe based data exploration library
+pandas==0.24.2
