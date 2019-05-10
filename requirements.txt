@@ -10,3 +10,9 @@ requests==2.21.0
 
 # -- dataframe based data exploration library
 pandas==0.24.2
+
+# -- ipywidgets
+ipywidgets==7.4.2
+
+# -- line below has to be executed after installation
+# jupyter nbextension enable --py widgetsnbextension
