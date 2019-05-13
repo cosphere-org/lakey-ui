@@ -1,12 +1,13 @@
 import requests
 from io import StringIO
 import pandas as pd
-import ipywidgets as widgets
 from IPython.display import display
 
 from .widgets.explorer import Explorer
 
+
 class Lakey:
+
     def __init__(
         self,
         access_token,
@@ -16,7 +17,12 @@ class Lakey:
         self.access_token = access_token
 
     def explore(self):
-        display(Explorer(lakey_service_url=self.lakey_service_url, access_token=self.access_token))
+        display(
+            Explorer(
+                lakey_service_url=self.lakey_service_url,
+                access_token=self.access_token
+            )
+        )
 
     def download(self, download_spec=None, url=None):
         if url:
@@ -44,7 +50,7 @@ class Lakey:
     def _download_by_url(self, url, download_spec=None):
         response = requests.get(url)
 
-        # TODO: consider how to differentiate not ATHENA executor in case of 
+        # TODO: consider how to differentiate not ATHENA executor in case of
         # by url
 
         # if download_spec['executor_type'] == 'ATHENA':

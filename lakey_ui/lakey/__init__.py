@@ -1,1 +1,1 @@
-from .lakey import Lakey
+from .lakey import Lakey    # noqa
