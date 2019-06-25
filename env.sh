@@ -1,4 +1,2 @@
-#!/bin/bash
-
-# -- line below has to be executed after installation ipywidgets
-jupyter nbextension enable --py widgetsnbextension
+export PORT=8000
+export LAKEY_PORT=8887
