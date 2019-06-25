@@ -3,6 +3,9 @@ import reduxThunk from "redux-thunk"
 import catalog from "src/modules/catalog/redux/catalog"
 import auth from "src/modules/auth/redux/auth"
 
+import { saveState, loadState } from "./localStorageUtils"
+import throttle from "lodash.throttle"
+
 const rootReducer = combineReducers({
   catalog,
   auth,
@@ -27,10 +30,15 @@ if (process.env.NODE_ENV === "development") {
 
 // eslint-disable-next-line
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose
+const preloadedState = loadState()
 const store = createStore(
   rootReducer,
-  /* preloadedState, */
+  preloadedState,
   composeEnhancers(applyMiddleware(...middlewares))
+)
+
+store.subscribe(
+  throttle(() => saveState({ auth: store.getState().auth }), 1000)
 )
 
 export default store
